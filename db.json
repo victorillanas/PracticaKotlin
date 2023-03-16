@@ -7,6 +7,7 @@
     "posicion" : "Base"
     "nota" : "5"
     "comentarios" : "Muy bueno"
+    "telefono" : "656341678"    
 },
 {
     "nombre" : "Christian Wood",
@@ -14,6 +15,8 @@
     "posicion" : "Ala-Pivot"
     "nota" : "7"
     "comentarios" : "Normalito"
+    "telefono" : "656341678"    
+
 },
 {
     "nombre" : "Jaden Hardy",
@@ -21,6 +24,8 @@
     "posicion" : "Base"
     "nota" : "3"
     "comentarios" : "De locos"
+    "telefono" : "656341678"    
+
 }
                     ]
 }
