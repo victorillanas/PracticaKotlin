@@ -1,31 +1,31 @@
-{  
-    "Jugadores" : [
-    {
-  
-    "nombre" : "Luka Dončić",
-    "altura" : "201"
-    "posicion" : "Base"
-    "nota" : "5"
-    "comentarios" : "Muy bueno"
-    "telefono" : "656341678"    
-},
 {
-    "nombre" : "Christian Wood",
-    "altura" : "206"
-    "posicion" : "Ala-Pivot"
-    "nota" : "7"
-    "comentarios" : "Normalito"
-    "telefono" : "656341678"    
+	"Jugadores": [
+        {
 
-},
-{
-    "nombre" : "Jaden Hardy",
-    "altura" : "190"
-    "posicion" : "Base"
-    "nota" : "3"
-    "comentarios" : "De locos"
-    "telefono" : "656341678"    
+			"nombre": "Luka Dončić",
+			"altura": 201,
+			"posicion": "Base",
+			"nota": "5",
+			"comentarios": "Muy bueno",
+			"telefono": "656341678"
+		},
+		{
+			"nombre": "Christian Wood",
+			"altura": 206,
+			"posicion": "Ala-Pivot",
+			"nota": "7",
+			"comentarios": "Normalito",
+			"telefono": "656341678"
 
-}
-                    ]
+		},
+		{
+			"nombre": "Jaden Hardy",
+			"altura": 190,
+			"posicion": "Base",
+			"nota": "3",
+			"comentarios": "De locos",
+			"telefono": "656341678"
+
+		}
+	]
 }
