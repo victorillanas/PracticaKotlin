@@ -1,1 +1,49 @@
-# PracticaKotlin
+
+class TodosJugadores {
+    companion object{
+        val ListaJugadores1a = listOf<Jugadores>(
+            Jugadores(
+                "Luka Dončić",
+                201,
+                "Base",
+                0,
+                (R.drawable.luka),
+                "Algo"
+            ),
+            Jugadores(
+                "Christian Wood",
+                206,
+                "Ala-pívot",
+                0,
+                R.drawable.wood,
+                "Algo"
+            ),
+            Jugadores(
+                "Jaden Hardy",
+                190,
+                "Base",
+                0,
+                R.drawable.hardy,
+                "Algo"
+            ),
+            Jugadores(
+                "Tim Hardaway Jr.",
+                198,
+                "Alero",
+                0,
+                R.drawable.jr,
+                "Algo"
+        ),
+            Jugadores(
+                "JaVale McGee",
+                213,
+                "Pívot",
+                0,
+                R.drawable.mcgee,
+                "Algo"
+        )
+            )
+
+    }
+
+}
