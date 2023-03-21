@@ -1,6 +1,6 @@
 {
 	"Jugadores": [
-        {
+        	{
 
 			"nombre": "Luka Dončić",
 			"altura": 201,
@@ -22,5 +22,5 @@
 			"imagen": "https://s3media.247sports.com/Uploads/Assets/900/264/9264900.jpg?fit=crop&width=100&fit=crop"
 
 		}
-	]
+			]
 }
