@@ -5,13 +5,13 @@
 			"nombre": "Luka Dončić",
 			"altura": 201,
 			"posicion": "Base",
-			"imagen": https://upload.wikimedia.org/wikipedia/commons/b/b2/Luka_Dončić_2021.jpg"
+			"imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Luka_Dončić_2021.jpg"
 		},
 		{
 			"nombre": "Christian Wood",
 			"altura": 206,
 			"posicion": "Ala-Pivot",
-			"imagen": https://cdn.vox-cdn.com/thumbor/uY1C8I1CtJE0cGfy9c9MThI24Z4=/0x0:5472x3648/920x613/filters:focal(2448x1241:3322x2115):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70697435/1387781747.0.jpg"
+			"imagen": "https://cdn.vox-cdn.com/thumbor/uY1C8I1CtJE0cGfy9c9MThI24Z4=/0x0:5472x3648/920x613/filters:focal(2448x1241:3322x2115):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70697435/1387781747.0.jpg"
 
 
 		},
@@ -19,7 +19,7 @@
 			"nombre": "Jaden Hardy",
 			"altura": 190,
 			"posicion": "Base",
-			"imagen": https://s3media.247sports.com/Uploads/Assets/900/264/9264900.jpg?fit=crop&width=100&fit=crop"
+			"imagen": "https://s3media.247sports.com/Uploads/Assets/900/264/9264900.jpg?fit=crop&width=100&fit=crop"
 
 		}
 	]
