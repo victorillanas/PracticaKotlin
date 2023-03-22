@@ -1,108 +1,108 @@
 {
 	"Jugadores": [
 		{
-			"nombre": "Kyrie Irving",
-			"altura": 188,
-			"posicion": "Base",
-			"imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png"
+			"nombre":"Kyrie Irving",
+			"altura":188,
+			"posicion":"Base",
+			"imagen":"https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png"
 		},
 		{
-			"nombre": "Maxi Kleber",
-			"altura": 208,
-			"posicion": "Ala-Pivot",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2960236.png"
+			"nombre":"Maxi Kleber",
+			"altura":208,
+			"posicion":"Ala-Pivot",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2960236.png"
 		},
 		{
-			"nombre": "Trae Young",
-			"altura": 178,
-			"posicion": "Base",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277905.png&w=350&h=254"
+			"nombre":"Trae Young",
+			"altura":178,
+			"posicion":"Base",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277905.png&w=350&h=254"
 		},
 		{
-			"nombre": "Dejounte Murray",
-			"altura": 185,
-			"posicion": "Escolta",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907497.png&w=350&h=254"
+			"nombre":"Dejounte Murray",
+			"altura":185,
+			"posicion":"Escolta",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3907497.png&w=350&h=254"
 		},
 		{
-			"nombre": "De'Andre Hunter",
-			"altura": 208,
-			"posicion": "Alero",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065732.png"
+			"nombre":"De'Andre Hunter",
+			"altura":208,
+			"posicion":"Alero",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065732.png"
 		},
 		{
-			"nombre": "John Collins",
-			"altura": 209,
-			"posicion": "Ala-Pivot",
-			"imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png"
+			"nombre":"John Collins",
+			"altura":209,
+			"posicion":"Ala-Pivot",
+			"imagen":"https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png"
 		},
 		{
-			"nombre": "Clint Capela",
-			"altura": 215,
-			"posicion": "Pivot",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102529.png&w=350&h=254"
+			"nombre":"Clint Capela",
+			"altura":215,
+			"posicion":"Pivot",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3102529.png&w=350&h=254"
 		},
 		{
-			"nombre": "Marcus Smart",
-			"altura": 195,
-			"posicion": "Base",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2990992.png"
+			"nombre":"Marcus Smart",
+			"altura":195,
+			"posicion":"Base",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2990992.png"
 		},
 		{
-			"nombre": "Jaylen Brown",
-			"altura": 203,
-			"posicion": "Escolta",
-			"imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png"
+			"nombre":"Jaylen Brown",
+			"altura":203,
+			"posicion":"Escolta",
+			"imagen":"https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png"
 		},
 		{
-			"nombre": "Jayson Tatum",
-			"altura": 198,
-			"posicion": "Alero",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065648.png&w=350&h=254"
+			"nombre":"Jayson Tatum",
+			"altura":198,
+			"posicion":"Alero",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4065648.png&w=350&h=254"
 		},
 		{
-			"nombre": "Grant Williams",
-			"altura": 198,
-			"posicion": "Ala-Pivot",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066218.png&w=350&h=254"
+			"nombre":"Grant Williams",
+			"altura":198,
+			"posicion":"Ala-Pivot",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066218.png&w=350&h=254"
 		},
 		{
-			"nombre": "Al Horford",
-			"altura": 216,
-			"posicion": "Pivot",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3213.png&w=350&h=254"
+			"nombre":"Al Horford",
+			"altura":216,
+			"posicion":"Pivot",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3213.png&w=350&h=254"
 		},
 		{
-			"nombre": "Spencer Dinwiddie",
-			"altura": 191,
-			"posicion": "Base",
-			"imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png"
+			"nombre":"Spencer Dinwiddie",
+			"altura":191,
+			"posicion":"Base",
+			"imagen":"https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png"
 		},
 		{
-			"nombre": "Seth Curry",
-			"altura": 191,
-			"posicion": "Escolta",
-			"imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png"
+			"nombre":"Seth Curry",
+			"altura":191,
+			"posicion":"Escolta",
+			"imagen":"https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png"
 
 		},
 		{
-			"nombre": "Joe Harris",
-			"altura": "196",
-			"posicion": "Alero",
-			"imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png"
+			"nombre":"Joe Harris",
+			"altura":196,
+			"posicion":"Alero",
+			"imagen":"https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png"
 
 		},
 		{
-			"nombre": "Yuta Watanabe",
-			"altura": "206",
-			"posicion": "Ala-Pivot",
-			"imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629139.png"
+			"nombre":"Yuta Watanabe",
+			"altura":206,
+			"posicion":"Ala-Pivot",
+			"imagen":"https://cdn.nba.com/headshots/nba/latest/1040x760/1629139.png"
 		},
 		{
-			"nombre": "Nicolas Claxton",
-			"altura": "216",
-			"posicion": "Pivot",
-			"imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278067.png&w=350&h=254"
+			"nombre":"Nicolas Claxton",
+			"altura":"216",
+			"posicion":"Pivot",
+			"imagen":"https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4278067.png&w=350&h=254"
 		}
 		
 		
